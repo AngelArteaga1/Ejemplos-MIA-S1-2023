@@ -1,0 +1,5 @@
+c++ \
+    main.cpp \
+    ./analizador/analizador.cpp \
+    ./mkdisk/mkdisk.cpp \
+-o run

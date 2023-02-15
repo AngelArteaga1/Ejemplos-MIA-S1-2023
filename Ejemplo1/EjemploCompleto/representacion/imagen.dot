@@ -5,13 +5,25 @@ n2 [label = <
 <tr>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+</tr>
+<tr>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
@@ -19,212 +31,80 @@ n2 [label = <
 <tr>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 </tr>
 <tr>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 </tr>
 <tr>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 </tr>
 <tr>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 </tr>
 <tr>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 </tr>
 <tr>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#ffffff" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
+<td bgcolor="#0" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
 <td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-<td bgcolor="#fcc157" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ff0000" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-</tr>
-<tr>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#ffffff" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
-<td bgcolor="#8f4601" width="20" height="10"> </td>
 </tr>
 </table>
 > ]

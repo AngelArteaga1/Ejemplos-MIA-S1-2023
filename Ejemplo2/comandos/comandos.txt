@@ -1,0 +1,3 @@
+MKdisk $size=>120 $path=>"/home/angel/archivos/fase1/" $name=>D1.dsk
+
+exec $path=>"/home/angel/Github/-MIA-P1_201901816/Scripts/comandosv3.scripts"

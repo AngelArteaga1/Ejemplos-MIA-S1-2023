@@ -1,0 +1,26 @@
+Mkdisk $size=>64 $path=>"/home/angel/Documentos/Disquitos/" $name=>Disco_1.dsk
+fdisk $sizE=>15 @unit=>M $path=>"/home/angel/Documentos/Disquitos/Disco_1.dsk" $name=>Primaria1
+mount $path=>"/home/angel/Documentos/Disquitos/Disco_1.dsk" $name=>Primaria1
+MkfS $id=>vda1 @type=>fast
+
+mkFile @SIZE=>15 $id=>vda1 $PatH=>"/home/user/docs/a.txt" @p @cont=>"/home/angel/Github/-MIA-P1_201901816/Cont/contenido.txt"
+Mkdir $id=>vda1 $path=>"/home/user/docs/usac"
+Mkdir $id=>vda1 $path=>"/home/comida/hola" @p
+Mkdir $id=>vda1 $path=>"/home/people"
+Mkdir $id=>vda1 $path=>"/home/cali"
+mkFile @SIZE=>44 $id=>vda1 $PatH=>"/home/num.txt" @p
+mkFile @SIZE=>0 $id=>vda1 $PatH=>"/home/pepe.txt" @p
+mkFile @SIZE=>15 $id=>vda1 $PatH=>"/home/angel/arti/listado.txt" @p @cont=>"/home/angel/Github/-MIA-P1_201901816/Cont/contenido2.txt"
+
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte1.png" $name=>MBR*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte2.png" $name=>DISK*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte3.png" $name=>Bm_block*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte4.png" $name=>BM_Inode*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte5.png" $name=>sb*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte6.png" $name=>tree*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte7.png" $name=>inode*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte8.png" $name=>block*/
+/*rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte9.png" @ruta=>"/home/user/docs/a.txt" $name=>file*/
+
+rep $id=>vda1 $Path=>"/home/angel/Documentos/Reportitos/reporte6.png" $name=>tree
+Syncronice @id=>vda1 @Path=>"/home/angel/Github/-MIA-P1_201901816/frontend/src/assets/files/"
