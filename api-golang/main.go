@@ -1,5 +1,8 @@
 package main
 
+//go mod init example.com/api
+//go get -u github.com/gorilla/mux
+
 import (
 	"fmt"
 	"log"
