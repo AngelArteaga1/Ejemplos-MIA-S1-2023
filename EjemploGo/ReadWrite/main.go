@@ -48,7 +48,7 @@ func main() {
 		return
 	}
 
-	fmt.Println("\033[32m[Exito] > Estructura Person escrita en el archivo \033[36m'./person.bin'\033[0m")
+	fmt.Println("\033[32m[Exito] > Estructura Person escrita en el archivo \033[36m'./persons.bin'\033[0m")
 
 	// Leer la estructura desde el archivo binario
 	var p2 Person
