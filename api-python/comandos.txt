@@ -1,0 +1,39 @@
+# dirigirse a la carpeta donde tengan la clave
+# ejecutar el siguiente comando
+ssh -i "clavel.pem" ubuntu@ec2-3-134-82-212.us-east-2.compute.amazonaws.com
+
+# si les da error tiene que ejecutar lo siguiente
+chmod 600 clavesita.pem
+
+# en vm instalar python
+sudo apt update
+sudo apt install python3 python3-pip
+sudo pip install flask
+
+# en vm instalar git
+sudo apt install git
+
+# descargar proyecto de git
+git clone https://github.com/AngelArteaga1/Ejemplos-MIA-S1-2023.git
+
+# ahora instalar nginx
+sudo apt install nginx
+
+#ingresar archivo para exponer puerto
+sudo vim /etc/nginx/sites-enabled/fasapi_nginx
+
+server {
+    listen 80;
+    server_name 54.166.0.242;
+    location / {
+        proxy_pass http://127.0.0.1:5000;
+    }
+}
+
+esc + :wq
+
+# para verificar si se guardó el archivo
+cat/etc/nginx/sites-enabled/fasapi_nginx
+
+# ahora resetear el servidor de nginx
+sudo service nginx restart
