@@ -19,6 +19,10 @@ git clone https://github.com/AngelArteaga1/Ejemplos-MIA-S1-2023.git
 # ahora instalar nginx
 sudo apt install nginx
 
+# activar el servicio
+sudo systemctl enable nginx
+sudo systemctl start nginx
+
 #ingresar archivo para exponer puerto
 sudo vim /etc/nginx/sites-enabled/fasapi_nginx
 
@@ -33,7 +37,7 @@ server {
 esc + :wq
 
 # para verificar si se guardó el archivo
-cat/etc/nginx/sites-enabled/fasapi_nginx
+cat /etc/nginx/sites-enabled/fasapi_nginx
 
 # ahora resetear el servidor de nginx
 sudo service nginx restart
