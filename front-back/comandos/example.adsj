@@ -1,0 +1,5 @@
+mkdisk -size=3000 -unit=K -path=/home/user/Disco1.dsk
+rmdisk -path="/home/mis discos/Disco4.dsk”
+fdisk -size=300 -path=/home/Disco1.dsk -name=Particion1
+mount -path=/home/Disco1.dsk -name=Part1 #id=061Disco1
+mkfs -type=full -id=061Disco1

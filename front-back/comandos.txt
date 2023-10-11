@@ -1,0 +1,13 @@
+# Para realizar el front en react:
+npm install -g create-react-app
+npx create-react-app mi-proyecto-react
+npm start
+# Para instalar monaco-editor:
+npm install @monaco-editor/react
+# Para instalar boostrap:
+npm install bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css' # Importar en index.js
+
+
+O si usan mi repositorio solo usen:
+npm install
