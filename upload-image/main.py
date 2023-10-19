@@ -6,8 +6,8 @@ archivo_dot = "reporte.dot"
 archivo_jpg = "reporte.jpg"
 bucket_name = "ejemplo-mia-usac-2023"
 # Define las credenciales directamente en el código
-aws_access_key_id = 'AKIA3KMALLUYTSUZKROZ'
-aws_secret_access_key = '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'
+aws_access_key_id = ''
+aws_secret_access_key = ''
 
 # Comando para ejecutar Graphviz
 comando = ["dot", "-Tjpg", archivo_dot, "-o", archivo_jpg]
