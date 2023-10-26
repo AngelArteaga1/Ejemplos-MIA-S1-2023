@@ -39,7 +39,6 @@ function Card() {
                 setCommands_list(commands.slice(i+1, commands.length));
                 if(command == 'pause'){
                     setIsPaused(true);
-                    console.log(commands_list);
                     setResults(prevResults => prevResults + `[Pause] => Presiona Enter para continuar\n`);
                     break;
                 }

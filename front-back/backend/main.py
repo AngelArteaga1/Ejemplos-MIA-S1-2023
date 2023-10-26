@@ -5,17 +5,6 @@ import time
 app = Flask(__name__)
 CORS(app)
 
-# Respuesta de ejemplo
-respuesta = {
-    'estado': 'OK',
-    'mensaje': '[Success] => Disco creado correctamente',
-}
-
-# Ruta para obtener la lista de productos≠
-@app.route('/', methods=['GET'])
-def obtener_productos():
-    return jsonify(respuesta)
-
 @app.route('/execute', methods=['POST'])
 def get_first_word():
     data = request.get_json()

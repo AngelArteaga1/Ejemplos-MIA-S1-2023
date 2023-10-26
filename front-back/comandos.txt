@@ -1,8 +1,8 @@
 # Para realizar el front en react:
 npm install -g create-react-app
-npx create-react-app mi-proyecto-react
+npx create-react-app frontend
 npm start
-# Para instalar monaco-editor:
+# Para instalar monaco-editor (opcional):
 npm install @monaco-editor/react
 # Para instalar boostrap:
 npm install bootstrap
